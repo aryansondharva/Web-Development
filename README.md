@@ -1,6 +1,13 @@
 # Web-Development
 Web Development Demo Pages collection<br><br>
 
+## Repository Maintainer
+
+| Name | Role | GitHub | Email |
+|------|------|--------|-------|
+| **Aryan Sondharva** | Community Maintainer | [@aryansondharva](https://github.com/aryansondharva) | [aryansondharva25@gmail.com](mailto:aryansondharva25@gmail.com) |
+<br>
+
 
 | Title | Code | Live Demo |
 | ----- | ---- | --------- |
